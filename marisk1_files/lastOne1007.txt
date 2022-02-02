@@ -1,0 +1,4 @@
+3333 1007
+2021-12-06 18:52:04 100,00kr Saldo: 100,00kr
+2021-12-06 18:52:06 444,00kr Saldo: 544,00kr
+Transactionlog created: Mon Dec 06 18:52:53 CET 2021
